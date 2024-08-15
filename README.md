@@ -34,7 +34,7 @@ The second part of this repository is a collection of PL/SQL scripts. These scri
 In addition to the scripts, there’s a document (`Week 2_PLSQL.docx`) that provides further explanations and context, making it easier to understand the purpose and usage of each script.
 
 
-# Week 3 Exercise Projects
+# Week 3 Exercise Repository 
 
 This repository contains multiple Java projects related to Week 3 exercises. Each exercise is located in its respective directory and focuses on different aspects of Java programming, including Spring Boot applications and other related technologies.
 
@@ -64,11 +64,8 @@ To run any of these exercises:
 
 ### Prerequisites
 
-- **Java**: Ensure Java 8 or above is installed.
+- **Java**: Java 8 or above is installed.
 - **Maven**: Required to build and manage dependencies.
-
-### Additional Notes
-
 - **.metadata** and `.mvn` directories**: These contain configuration and metadata files for the IDE and Maven wrapper.
 - **pom.xml**: The Project Object Model file used by Maven to manage the project's dependencies and build process.
 - **HELP.md**: Additional help or documentation specific to a project.
