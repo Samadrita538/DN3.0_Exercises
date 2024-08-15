@@ -66,6 +66,6 @@ To run any of these exercises:
 
 - **Java**: Java 8 or above is installed.
 - **Maven**: Required to build and manage dependencies.
-- **.metadata** and `.mvn` directories**: These contain configuration and metadata files for the IDE and Maven wrapper.
+- **.metadata and `.mvn` directories**: These contain configuration and metadata files for the IDE and Maven wrapper.
 - **pom.xml**: The Project Object Model file used by Maven to manage the project's dependencies and build process.
 - **HELP.md**: Additional help or documentation specific to a project.
