@@ -38,17 +38,17 @@ In addition to the scripts, there’s a document (`Week 2_PLSQL.docx`) that prov
 
 This repository contains multiple Java projects related to Week 3 exercises. Each exercise is located in its respective directory and focuses on different aspects of Java programming, including Spring Boot applications and other related technologies.
 
-- **Ex-1 to Ex-4**: These exercises might be basic setups, configurations, or simpler Java applications demonstrating fundamental concepts.
+- **Ex-1 to Ex-4**: Exercises are on basic setups, configurations, or simpler Java applications demonstrating fundamental concepts.
 - **Ex-5**: Employee Management System project focusing on CRUD operations and possibly integrating a database.
 - **Ex-6**: Another iteration or enhancement of the Employee Management System.
-- **Ex-7 to Ex-10**: Likely more complex projects, potentially including advanced topics like auditing, JPA configurations, projections, and other Spring Boot features.
+- **Ex-7 to Ex-10**: Potentially includes advanced topics like auditing, JPA configurations, projections, and other Spring Boot features.
 
 ### How to Run
 
-To run any of these exercises:
+To run any of these:
 
-1. Navigate to the directory of the exercise you wish to run.
-2. Ensure you have Java and Maven installed on your machine.
+1. Navigate to the directory of the exercise we wish to run.
+2. Should have Java and Maven installed on machine.
 3. Use the following Maven command to build and run the project:
 
    ```sh
