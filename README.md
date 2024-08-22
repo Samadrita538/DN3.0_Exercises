@@ -69,3 +69,52 @@ To run any of these:
 - **.metadata and `.mvn` directories**: These contain configuration and metadata files for the IDE and Maven wrapper.
 - **pom.xml**: The Project Object Model file used by Maven to manage the project's dependencies and build process.
 - **HELP.md**: Additional help or documentation specific to a project.
+
+
+# Week 4 Java Repository
+
+Welcome to the **Week 4 Java Exercises** repository. This collection of exercises is designed to deepen the understanding of Java, Spring Boot, and associated technologies. Each exercise builds on previous knowledge, gradually increasing in complexity and covering essential aspects of Java development.
+
+## Table of Contents
+
+- [Exercise 1: Introduction to Spring Boot](#exercise-1-introduction-to-spring-boot)
+- [Exercise 2: Working with JPA Entities](#exercise-2-working-with-jpa-entities)
+- [Exercise 3: Creating Repositories and Services](#exercise-3-creating-repositories-and-services)
+- [Exercise 4: Developing a Book Store API](#exercise-4-developing-a-book-store-api)
+- [Exercise 5: Advanced Features in Book Store API](#exercise-5-advanced-features-in-book-store-api)
+- [Exercise 6: User Registration and Authentication](#exercise-6-user-registration-and-authentication)
+- [Exercise 7: Testing the Book Store API](#exercise-7-testing-the-book-store-api)
+
+---
+
+## Exercise 1: Introduction to Spring Boot
+
+In this exercise, a basic Spring Boot application is set up. The goal is to familiarize with the structure of a Spring Boot project, including the configuration files and the initial setup required to get a project up and running.
+
+## Exercise 2: Working with JPA Entities
+
+This exercise dives into the Java Persistence API (JPA). I've created entity classes that represent database tables, and explored how to map these entities to database schema using annotations.
+
+## Exercise 3: Creating Repositories and Services
+
+Here, repositories are implemented that interact with the database and services that contain business logic. This exercise helps to understand how to separate data access and business logic layers in a Spring Boot application.
+
+## Exercise 4: Developing a Book Store API
+
+In this exercise, developed a simple RESTful API for a book store. The project includes creating endpoints for managing books and customers, handling CRUD operations, and understanding the flow from the controller to the database.
+
+## Exercise 5: Advanced Features in Book Store API
+
+This exercise extends the Book Store API with advanced features such as custom queries, error handling, and optimization of service logic. 
+
+## Exercise 6: User Registration and Authentication
+
+Security is the focus of this exercise. The user registration and authentication mechanisms are implemented, securing the API endpoints and managing user sessions effectively.
+
+## Exercise 7: Testing the Book Store API
+
+The final exercise is all about ensuring the robustness of the application. Unit and integration tests for the Book Store API is written, using testing frameworks to validate the functionality and reliability of my code.
+
+---
+
+Each exercise folder contains the source code, configuration files, and other necessary resources. The instructions provided in the code comments and the documentation within each folder to complete the exercises.
