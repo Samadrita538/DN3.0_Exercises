@@ -71,7 +71,7 @@ To run any of these:
 - **HELP.md**: Additional help or documentation specific to a project.
 
 
-# Week 4 Java Repository
+# Week 4 Exercise Repository
 
 Welcome to the **Week 4 Java Exercises** repository. This collection of exercises is designed to deepen the understanding of Java, Spring Boot, and associated technologies. Each exercise builds on previous knowledge, gradually increasing in complexity and covering essential aspects of Java development.
 
