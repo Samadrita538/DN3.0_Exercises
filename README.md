@@ -119,7 +119,8 @@ The final exercise is all about ensuring the robustness of the application. Unit
 
 Each exercise folder contains the source code, configuration files, and other necessary resources. The instructions provided in the code comments and the documentation within each folder to complete the exercises.
 
-# Week 5 Exercises
+# Week 5 Exercise Repository 
+
 
 This repository contains the exercises for Week 5, each focused on developing and refining the `BookStoreAPI` project. Below is an overview of the exercises included:
 
